@@ -1,0 +1,25 @@
+{
+  "projectName": "another-project",
+  "projectOwner": "pyq",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": ["README.md"],
+  "imageSize": 100,
+  "commit": false,
+  "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": false,
+  "linkToUsage": true,
+  "skipCi": true,
+  "contributors": [
+    {
+      "name": "pyq-test",
+      "email": "pyq-test@gmail.com",
+      "contributions": ["ideas", "research"]
+    },
+    {
+      "name": "pyq-test1",
+      "email": "pyq-test@gmail.com",
+      "contributions": ["ideas", "code"]
+    }
+  ]
+} 
